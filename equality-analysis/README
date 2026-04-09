@@ -1,10 +1,10 @@
- Equality Analysis (Excel)
+ #Equality Analysis (Excel)
 
- 📌 Overview
+##📌 Overview
 
 In this project, I worked with employee compensation data to understand how fair the distribution is across different factories and job roles. The main idea was to take raw scores and turn them into something easier to read and interpret.
 
- 🎯 What I Did
+ ##🎯 What I Did
 
 * Went through the dataset to understand how the data is structured
 * Added a new column called **“Equality Class”** to group the scores
@@ -15,11 +15,11 @@ In this project, I worked with employee compensation data to understand how fair
   * Highly Discriminative
 * Converted raw numerical values into clear and meaningful categories
 
- 🛠 Tools Used
+## 🛠 Tools Used
 
 * Microsoft Excel (IFS, AND, OR, basic data analysis)
 
- 📊 Key Insights
+ ##📊 Key Insights
 
 * Spotted where compensation is fairly distributed
 * Identified cases where inequality is higher and may need attention
@@ -31,12 +31,12 @@ In this project, I worked with employee compensation data to understand how fair
 
 *Excel sheet showing classification of equality scores*
 
- 📁 Files
+## 📁 Files
 
 * `equality-analysis.xlsx` – Excel file with classification logic
 * `excel-output.png` – Screenshot of the final output
 
-🚀 Outcome
+##🚀 Outcome
 
 This project helped me practice using Excel functions to organize and interpret data, and turn raw numbers into insights that can support better decision-making.
 
