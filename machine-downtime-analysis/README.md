@@ -14,7 +14,7 @@ In this project, I worked with machine telemetry data to understand downtime acr
   * Downtime by Device Type
 * Combined them into an interactive dashboard where selecting a factory filters the device-level view
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Tableau (visualization, dashboarding, filters)
 
@@ -24,15 +24,15 @@ In this project, I worked with machine telemetry data to understand downtime acr
 * Found which machine types were contributing the most
 * Made it easy to drill down into specific factory-level issues
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](./dashboard.png)
 
 ##  Files
 
--`machine-downtime-dashboard.twbx` – Tableau dashboard file  
-- `Dataset used for analysis` - https://drive.google.com/file/d/1L9Q1ATl9aKPtMYL5MufEeU5EXUEYywqB/view?usp=sharing [Download Here]
-- `dashboard.png` – Screenshot of the final dashboard 
+`machine-downtime-dashboard.twbx` – Tableau dashboard file  
+`Dataset used for analysis` - https://drive.google.com/file/d/1L9Q1ATl9aKPtMYL5MufEeU5EXUEYywqB/view?usp=sharing [Download Here]
+`dashboard.png` – Screenshot of the final dashboard 
 
 ##  Outcome
 
