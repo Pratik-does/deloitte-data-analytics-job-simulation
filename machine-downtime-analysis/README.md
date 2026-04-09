@@ -1,39 +1,43 @@
 # Machine Downtime Analysis (Tableau)
 
-##  Overview
+## 📌 Overview
 
-In this project, I worked with machine telemetry data to understand downtime across different factories and device types. The goal was to take raw data and turn it into something meaningful and easy to explore.
+In this project, I analyzed machine telemetry data to understand downtime across different factories and device types. The goal was to convert raw operational data into clear, actionable insights through visualization.
 
-##  What I Did
+## 🎯 What I Did
 
 * Cleaned and explored the dataset in Tableau
 * Created a calculated field to measure downtime
-* Built two charts:
+* Built two key visualizations:
 
   * Downtime by Factory
   * Downtime by Device Type
-* Combined them into an interactive dashboard where selecting a factory filters the device-level view
+* Developed an interactive dashboard where selecting a factory dynamically filters device-level downtime
 
-##  Tools Used
+## 🛠 Tools Used
 
-* Tableau (visualization, dashboarding, filters)
+* Tableau (data visualization, dashboarding, interactive filters)
 
-##  Key Takeaways
+## 📊 Key Insights
 
-* Quickly identified which factory had the highest downtime
-* Found which machine types were contributing the most
-* Made it easy to drill down into specific factory-level issues
+* Identified the factory with the highest downtime
+* Determined which device types contribute most to operational inefficiencies
+* Enabled drill-down analysis for deeper investigation
 
-##  Dashboard Preview
+## 📷 Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Machine Downtime Dashboard](./dashboard.png)
 
-##  Files
+*Dashboard showing downtime analysis with factory-level filtering applied*
 
-`machine-downtime-dashboard.twbx` – Tableau dashboard file  
-`Dataset used for analysis` - https://drive.google.com/file/d/1L9Q1ATl9aKPtMYL5MufEeU5EXUEYywqB/view?usp=sharing [Download Here]
-`dashboard.png` – Screenshot of the final dashboard 
+## 📁 Files
 
-##  Outcome
+* `machine-downtime-dashboard.twbx` – Tableau dashboard file
+* `dashboard.png` – Screenshot of the final dashboard
+* `Dataset` - [Download Dataset](https://drive.google.com/file/d/1L9Q1ATl9aKPtMYL5MufEeU5EXUEYywqB/view?usp=sharing)
 
-This project helped me practice turning raw operational data into a simple, interactive dashboard that highlights key problem areas and supports better decision-making.
+## 🚀 Outcome
+
+This project demonstrates my ability to transform raw data into an interactive dashboard, enabling quick identification of downtime patterns and supporting data-driven decision-making.
+
+
